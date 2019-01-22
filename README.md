@@ -15,7 +15,8 @@ a curated list of articles, tools, and other resources related to Javascript
 
 ----- 
 ## Language
-
+### JS
+- [function declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 ### ES6
 - [modules](https://ponyfoo.com/articles/es6-modules-in-depth)
 - [arrow functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
