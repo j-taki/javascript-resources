@@ -7,7 +7,7 @@ a curated list of articles, tools, and other resources related to Javascript
 - [Weird JS Things](#weird-js-things)
 - [Other Lists](#other-lists)
 ## Tools 
-
+- [debugging](#debugging)
 ## Framework 
 - [React](#react) 
 
@@ -26,6 +26,12 @@ a curated list of articles, tools, and other resources related to Javascript
 - [scoping of 'this'](https://stackoverflow.com/questions/37383468/is-there-a-way-to-avoid-the-infamous-that-this-in-typescript)
 ### Other Lists
 - [JS the right way](https://jstherightway.org/)
+
+## Tools 
+### Debugging
+- [debug tools](https://raygun.com/blog/javascript-debugging/)
+> console.table, trace, monitor, 
+- [console.table](https://www.chaseadams.io/inspect-array-of-objects-with-console-table/)
 
 ## React 
 ### Tutorials 
